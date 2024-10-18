@@ -8,6 +8,6 @@ I'm an aspiring back end developer (currently working in primarily front end) ba
 - **Tools I use:** Git, VSCode
 
 ## 📈 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=glapsuidir&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=glapsuidir&show_icons=true&theme=radical
 
 Feel free to reach out to me anytime!
