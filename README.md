@@ -1,6 +1,6 @@
 # Hello, I'm Glapsuidir 👋
 
-I'm an aspiring back end developer (currently working in primarily front end) based in Sacramento. I love working on projects that solve real world issues and make day to day life for people easier.
+I'm an aspiring cybersecurity specialist (currently working in primarily web development) based in Sacramento. I love working on projects that solve real world issues and make day to day life for people easier.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** HTML, CSS, JavaScript
